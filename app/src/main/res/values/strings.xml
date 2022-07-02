@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Camisaria ADS</string>
+    <string name="camisas">Camisas</string>
+    <string name="camisetas">Camisetas</string>
+    <string name="listar_camisas">Listar Camisas</string>
+    <string name="gerenciar_camisas">Gerenciar Camisas</string>
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="editar">Editar</string>
+    <string name="nome">Nome</string>
+    <string name="tamanho">Tamanho</string>
+    <string name="cor">Cor</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="certeza_disso_msm">Certeza disso?</string>
+    <string name="sim_msm">Sim</string>
+    <string name="nao_msm">Não</string>
+    <string name="tipo" />
+</resources>
