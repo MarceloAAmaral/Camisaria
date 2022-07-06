@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c66ae59e-f43b-4862-9000-f87cb753d71e" name="Changes" comment="CM - adicionado dir ausentes" />
+    <list default="true" id="c66ae59e-f43b-4862-9000-f87cb753d71e" name="Changes" comment="CM - GRADLE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657148753300</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CM - adicionado dir ausentes">
+      <created>1657149773972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657149773972</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CM - GRADLE">
+      <created>1657150098307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657150098307</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +226,7 @@
     <MESSAGE value="CM - Inicio do projeto" />
     <MESSAGE value="CM - inicio" />
     <MESSAGE value="CM - adicionado dir ausentes" />
-    <option name="LAST_COMMIT_MESSAGE" value="CM - adicionado dir ausentes" />
+    <MESSAGE value="CM - GRADLE" />
+    <option name="LAST_COMMIT_MESSAGE" value="CM - GRADLE" />
   </component>
 </project>
